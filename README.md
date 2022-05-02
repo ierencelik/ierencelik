@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ierencelik
-- 👀 I’m interested in HTML CSS AND PASCAL
-- 🌱 I’m currently learning pascal
+- 👀 I’m interested in HTML CSS AND JAVASCRIPT
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
